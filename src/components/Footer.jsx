@@ -31,8 +31,8 @@ export default function Footer() {
         <div>
           <h4 className="text-white uppercase tracking-wide text-[16px] mb-4">Contact</h4>
           <ul className="space-y-3">
-            <li>info@pinnacle.in</li>
-            <li>+91 123 456 7890</li>
+            <li>hello@epfdesk.com</li>
+            <li>+919945933333</li>
             <li>Mumbai | Delhi | Bangalore</li>
           </ul>
         </div>
