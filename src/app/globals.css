@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+body {
+  @apply text-[#2c2c2c] leading-[1.6] overflow-x-hidden;
+}

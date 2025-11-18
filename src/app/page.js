@@ -1,11 +1,23 @@
-import React from 'react'
+import Navbar from "../components/Navbar";
+import Hero from "../components/Hero";
+import About from "../components/About";
+import Services from "../components/Services";
+import Technology from "../components/Technology";
+import Portfolio from "../components/Portfolio";
+import CTA from "../components/CTA";
+import Footer from "../components/Footer";
 
-const LandingPage = () => {
+export default function Home() {
   return (
-    <div>
-      hello
-    </div>
-  )
+    <>
+      <Navbar />
+      <Hero />
+      <About />
+      <Services />
+      <Technology />
+      <Portfolio />
+      <CTA />
+      <Footer />
+    </>
+  );
 }
-
-export default LandingPage
