@@ -33,7 +33,7 @@ export default function Footer() {
           <ul className="space-y-3">
             <li>hello@epfdesk.com</li>
             <li>+919945933333</li>
-            <li>Mumbai | Delhi | Bangalore</li>
+            <li>62/63 Church Street, Bengaluru, Karnataka, 560001</li>
           </ul>
         </div>
       </div>
